@@ -1,0 +1,142 @@
+[2022-08-08] [12:34:47][actix_server::builder][INFO] Starting 4 workers
+[2022-08-08] [12:34:47][actix_server::server][INFO] Actix runtime found; starting in Actix runtime
+[2022-08-08] [12:34:55][actix_server::server][INFO] SIGINT received; starting forced shutdown
+[2022-08-08] [12:34:55][actix_server::worker][INFO] Shutting down idle worker
+[2022-08-08] [12:34:55][actix_server::worker][INFO] Shutting down idle worker
+[2022-08-08] [12:34:55][actix_server::worker][INFO] Shutting down idle worker
+[2022-08-08] [12:34:55][actix_server::worker][INFO] Shutting down idle worker
+[2022-08-08] [12:34:55][actix_server::accept][DEBUG] Paused accepting connections on 127.0.0.1:2347
+[2022-08-08] [12:34:55][actix_server::accept][INFO] Accept thread stopped
+[2022-08-08] [12:35:31][actix_server::builder][INFO] Starting 4 workers
+[2022-08-08] [12:35:31][actix_server::server][INFO] Actix runtime found; starting in Actix runtime
+[2022-08-08] [12:36:38][actix_web::middleware::logger][INFO] 127.0.0.1 "GET / HTTP/1.1" 200 13 "-" "Thunder Client (https://www.thunderclient.com)" 0.000139
+[2022-08-08] [12:36:45][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000256
+[2022-08-08] [12:36:47][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000188
+[2022-08-08] [12:36:48][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000199
+[2022-08-08] [12:36:48][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000136
+[2022-08-08] [12:36:49][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000194
+[2022-08-08] [12:36:49][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000188
+[2022-08-08] [12:36:49][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000148
+[2022-08-08] [12:36:49][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000146
+[2022-08-08] [12:36:49][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000163
+[2022-08-08] [12:36:50][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000138
+[2022-08-08] [12:36:51][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000158
+[2022-08-08] [12:36:51][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000179
+[2022-08-08] [12:36:51][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000218
+[2022-08-08] [12:36:51][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000110
+[2022-08-08] [12:36:51][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000146
+[2022-08-08] [12:36:51][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000172
+[2022-08-08] [12:36:51][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000085
+[2022-08-08] [12:36:52][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000136
+[2022-08-08] [12:36:52][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000182
+[2022-08-08] [12:36:52][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000123
+[2022-08-08] [12:36:52][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000152
+[2022-08-08] [12:36:52][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000199
+[2022-08-08] [12:36:52][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000202
+[2022-08-08] [12:36:53][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000076
+[2022-08-08] [12:36:53][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000098
+[2022-08-08] [12:36:53][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000125
+[2022-08-08] [12:36:53][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000139
+[2022-08-08] [12:36:53][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000086
+[2022-08-08] [12:36:53][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000148
+[2022-08-08] [12:36:54][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000152
+[2022-08-08] [12:36:54][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000143
+[2022-08-08] [12:36:54][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000152
+[2022-08-08] [12:36:54][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000112
+[2022-08-08] [12:36:54][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000168
+[2022-08-08] [12:36:54][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000149
+[2022-08-08] [12:36:55][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000202
+[2022-08-08] [12:36:55][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000170
+[2022-08-08] [12:36:55][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000126
+[2022-08-08] [12:36:55][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000090
+[2022-08-08] [12:36:55][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000135
+[2022-08-08] [12:36:56][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000173
+[2022-08-08] [12:37:00][actix_web::types::query][DEBUG] Failed during Query extractor deserialization. Request path: "/island"
+[2022-08-08] [12:37:00][actix_web::middleware::logger][DEBUG] Error in response: Deserialize(Error("missing field `id`"))
+[2022-08-08] [12:37:00][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /island HTTP/1.1" 400 43 "-" "Thunder Client (https://www.thunderclient.com)" 0.000607
+[2022-08-08] [12:37:03][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /islands HTTP/1.1" 200 40234 "-" "Thunder Client (https://www.thunderclient.com)" 0.000365
+[2022-08-08] [12:37:17][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /island?id=102 HTTP/1.1" 200 195 "-" "Thunder Client (https://www.thunderclient.com)" 0.000128
+[2022-08-08] [12:37:28][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000169
+[2022-08-08] [12:37:29][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000144
+[2022-08-08] [12:37:29][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000158
+[2022-08-08] [12:37:29][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000136
+[2022-08-08] [12:37:30][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000168
+[2022-08-08] [12:37:30][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000112
+[2022-08-08] [12:37:30][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000127
+[2022-08-08] [12:37:30][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000137
+[2022-08-08] [12:37:31][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000130
+[2022-08-08] [12:37:31][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000172
+[2022-08-08] [12:37:31][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000183
+[2022-08-08] [12:37:31][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000136
+[2022-08-08] [12:37:31][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000091
+[2022-08-08] [12:37:32][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000101
+[2022-08-08] [12:37:32][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000146
+[2022-08-08] [12:37:33][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000167
+[2022-08-08] [12:37:33][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000202
+[2022-08-08] [12:37:33][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000107
+[2022-08-08] [12:37:34][actix_web::types::query][DEBUG] Failed during Query extractor deserialization. Request path: "/next"
+[2022-08-08] [12:37:34][actix_web::middleware::logger][DEBUG] Error in response: Deserialize(Error("invalid digit found in string"))
+[2022-08-08] [12:37:34][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102] HTTP/1.1" 400 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000491
+[2022-08-08] [12:37:35][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000190
+[2022-08-08] [12:37:36][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000099
+[2022-08-08] [12:37:36][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000123
+[2022-08-08] [12:37:36][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000195
+[2022-08-08] [12:37:37][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000102
+[2022-08-08] [12:37:37][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000113
+[2022-08-08] [12:37:37][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000146
+[2022-08-08] [12:37:38][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000118
+[2022-08-08] [12:37:38][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000109
+[2022-08-08] [12:37:38][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000158
+[2022-08-08] [12:37:38][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000156
+[2022-08-08] [12:37:39][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000095
+[2022-08-08] [12:37:39][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000174
+[2022-08-08] [12:37:40][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000180
+[2022-08-08] [12:37:40][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000108
+[2022-08-08] [12:37:41][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000120
+[2022-08-08] [12:37:41][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000166
+[2022-08-08] [12:37:41][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000153
+[2022-08-08] [12:37:42][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000114
+[2022-08-08] [12:37:42][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000121
+[2022-08-08] [12:37:42][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000153
+[2022-08-08] [12:37:42][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000137
+[2022-08-08] [12:37:42][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000142
+[2022-08-08] [12:37:42][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000083
+[2022-08-08] [12:37:43][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000139
+[2022-08-08] [12:37:43][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000150
+[2022-08-08] [12:37:43][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000153
+[2022-08-08] [12:37:43][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000103
+[2022-08-08] [12:37:43][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000158
+[2022-08-08] [12:37:43][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000165
+[2022-08-08] [12:37:44][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000132
+[2022-08-08] [12:37:44][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000140
+[2022-08-08] [12:37:44][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000117
+[2022-08-08] [12:37:44][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000092
+[2022-08-08] [12:37:45][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000134
+[2022-08-08] [12:37:45][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000125
+[2022-08-08] [12:37:45][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000203
+[2022-08-08] [12:37:45][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000140
+[2022-08-08] [12:37:46][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000174
+[2022-08-08] [12:37:46][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000137
+[2022-08-08] [12:37:46][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000148
+[2022-08-08] [12:37:46][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000093
+[2022-08-08] [12:37:46][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000086
+[2022-08-08] [12:37:47][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000091
+[2022-08-08] [12:37:47][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000135
+[2022-08-08] [12:37:47][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /next?island=102 HTTP/1.1" 200 54 "-" "Thunder Client (https://www.thunderclient.com)" 0.000087
+[2022-08-08] [12:38:01][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /today?island=102 HTTP/1.1" 200 313 "-" "Thunder Client (https://www.thunderclient.com)" 0.000140
+[2022-08-08] [12:45:00][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /today?island=102 HTTP/1.1" 200 313 "-" "Thunder Client (https://www.thunderclient.com)" 0.000161
+[2022-08-08] [12:45:01][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /today?island=102 HTTP/1.1" 200 313 "-" "Thunder Client (https://www.thunderclient.com)" 0.000142
+[2022-08-08] [12:45:01][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /today?island=102 HTTP/1.1" 200 313 "-" "Thunder Client (https://www.thunderclient.com)" 0.000150
+[2022-08-08] [12:45:02][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /today?island=102 HTTP/1.1" 200 313 "-" "Thunder Client (https://www.thunderclient.com)" 0.000169
+[2022-08-08] [12:45:02][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /today?island=102 HTTP/1.1" 200 313 "-" "Thunder Client (https://www.thunderclient.com)" 0.000141
+[2022-08-08] [12:45:03][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /today?island=102 HTTP/1.1" 200 313 "-" "Thunder Client (https://www.thunderclient.com)" 0.000147
+[2022-08-08] [12:45:03][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /today?island=102 HTTP/1.1" 200 313 "-" "Thunder Client (https://www.thunderclient.com)" 0.000149
+[2022-08-08] [12:45:04][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /today?island=102 HTTP/1.1" 200 313 "-" "Thunder Client (https://www.thunderclient.com)" 0.000135
+[2022-08-08] [12:45:04][actix_web::middleware::logger][INFO] 127.0.0.1 "GET /today?island=102 HTTP/1.1" 200 313 "-" "Thunder Client (https://www.thunderclient.com)" 0.000139
+[2022-08-08] [12:45:15][actix_server::server][INFO] SIGINT received; starting forced shutdown
+[2022-08-08] [12:45:15][actix_server::worker][INFO] Shutting down idle worker
+[2022-08-08] [12:45:15][actix_server::worker][INFO] Shutting down idle worker
+[2022-08-08] [12:45:15][actix_server::worker][INFO] Shutting down idle worker
+[2022-08-08] [12:45:15][actix_server::worker][INFO] Shutting down idle worker
+[2022-08-08] [12:45:15][actix_server::accept][DEBUG] Paused accepting connections on 127.0.0.1:2347
+[2022-08-08] [12:45:15][actix_server::accept][INFO] Accept thread stopped
